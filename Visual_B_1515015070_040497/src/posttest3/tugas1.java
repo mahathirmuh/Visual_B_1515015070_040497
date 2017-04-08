@@ -7,7 +7,7 @@ package Posttest3;
 
 /**
  *
- * @author Spitzery
+ * @author Maulia
  */
 public class tugas1 extends javax.swing.JFrame {
 

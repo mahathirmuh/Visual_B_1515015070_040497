@@ -9,7 +9,7 @@ package posttest1;
 
 /**
  *
- * @author straight
+ * @author Maulia
  */
 public class tugas2 extends javax.swing.JFrame {
     double v,x,y,z,cel,rem,kel,far;

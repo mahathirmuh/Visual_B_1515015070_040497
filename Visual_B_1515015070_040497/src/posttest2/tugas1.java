@@ -10,7 +10,7 @@ import javax.swing.DefaultComboBoxModel;
 
 /**
  *
- * @author Clicknetcafe
+ * @author Maulia
  */
 public class tugas1 extends javax.swing.JFrame {
 
